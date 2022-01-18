@@ -18,6 +18,10 @@ border-width: 7px;
 height: 10px;
 margin-top: 50px;
 }
+.computer-img
+{
+	border-radius:100px;
+}
 *{
 	
 	box-sizing: border-box;
